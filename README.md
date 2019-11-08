@@ -1,4 +1,4 @@
-# nxt-filesharing optimised for 1.11.15
+# nxt-filesharing optimized for 1.11.15
 File sharing plugin for Nxt
 
 ## Installation
